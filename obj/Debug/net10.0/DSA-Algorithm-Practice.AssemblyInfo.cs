@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSA-Algorithm-Practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+452225d6fd68d021dd8bb1ff18e7d505960e27a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b65ba4ba926e494dbde73d7a82f4ef1e5ba094a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSA-Algorithm-Practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSA-Algorithm-Practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
